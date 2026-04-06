@@ -8,9 +8,11 @@
     ".NETCoreApp,Version=v10.0": {
       "Hoteleria/1.0.0": {
         "dependencies": {
+          "DinkToPdf": "1.0.8",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "10.0.5",
           "Microsoft.AspNetCore.Identity.UI": "10.0.5",
           "Microsoft.EntityFrameworkCore": "10.0.5",
+          "Microsoft.EntityFrameworkCore.Design": "10.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.5",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "10.0.2",
           "itext7": "9.6.0"
@@ -42,6 +44,14 @@
           "lib/net8.0/Azure.Identity.dll": {
             "assemblyVersion": "1.14.2.0",
             "fileVersion": "1.1400.225.36004"
+          }
+        }
+      },
+      "DinkToPdf/1.0.8": {
+        "runtime": {
+          "lib/netstandard1.6/DinkToPdf.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
           }
         }
       },
@@ -1975,6 +1985,13 @@
       "sha512": "sha512-YhNMwOTwT+I2wIcJKSdP0ADyB2aK+JaYWZxO8LSRDm5w77LFr0ykR9xmt2ZV5T1gaI7xU6iNFIh/yW1dAlpddQ==",
       "path": "azure.identity/1.14.2",
       "hashPath": "azure.identity.1.14.2.nupkg.sha512"
+    },
+    "DinkToPdf/1.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wJDlcNXjQ+OnBFwh3LBeAXgrXqlKl0RsgN60XpxEFbyqzdaG9ASb5HTXQjXQPaBguSCOrGZZESPnpcng34TEkw==",
+      "path": "dinktopdf/1.0.8",
+      "hashPath": "dinktopdf.1.0.8.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",

@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\Nueva carpeta\\ExamenParcial1_\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\data\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:data\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\models\\applicacionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:models\\applicacionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\views\\reservas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\reservas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,36 +47,8 @@
       "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\reservas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\models\\applicacionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:models\\applicacionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|d:\\nueva carpeta\\examenparcial1_\\data\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:data\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,35 +102,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Reservas\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Reservas\\Edit.cshtml",
-              "ToolTip": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Reservas\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Reservas\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-06T22:03:37.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Reserva.cs",
-              "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Models\\Reserva.cs",
-              "RelativeDocumentMoniker": "Models\\Reserva.cs",
-              "ToolTip": "D:\\Nueva carpeta\\ExamenParcial1_\\Models\\Reserva.cs",
-              "RelativeToolTip": "Models\\Reserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T21:06:16.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Reservas\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Reservas\\Index.cshtml",
@@ -142,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Reservas\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Reservas\\Delete.cshtml",
@@ -150,12 +126,11 @@
               "RelativeToolTip": "Views\\Reservas\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-06T21:34:25.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T21:34:25.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Reservas\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Reservas\\Create.cshtml",
@@ -163,11 +138,12 @@
               "RelativeToolTip": "Views\\Reservas\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-06T21:33:32.934Z"
+              "WhenOpened": "2026-04-06T21:33:32.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReservasController.cs",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Controllers\\ReservasController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReservasController.cs",
@@ -175,11 +151,12 @@
               "RelativeToolTip": "Controllers\\ReservasController.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAswGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T21:32:18.666Z"
+              "WhenOpened": "2026-04-06T21:32:18.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -187,23 +164,25 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T21:07:10.593Z"
+              "WhenOpened": "2026-04-06T21:07:10.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Nueva carpeta\\ExamenParcial1_\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-06T21:14:38.002Z"
+              "WhenOpened": "2026-04-06T21:14:38.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "ApplicacionUser.cs",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Models\\ApplicacionUser.cs",
               "RelativeDocumentMoniker": "Models\\ApplicacionUser.cs",
@@ -211,11 +190,12 @@
               "RelativeToolTip": "Models\\ApplicacionUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T21:05:05.894Z"
+              "WhenOpened": "2026-04-06T21:05:05.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -223,23 +203,62 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAswDAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-06T21:37:05.176Z"
+              "WhenOpened": "2026-04-06T21:37:05.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "SeedRoles.cs",
+              "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Data\\SeedRoles.cs",
+              "RelativeDocumentMoniker": "Data\\SeedRoles.cs",
+              "ToolTip": "D:\\Nueva carpeta\\ExamenParcial1_\\Data\\SeedRoles.cs",
+              "RelativeToolTip": "Data\\SeedRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:12:45.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Nueva carpeta\\ExamenParcial1_\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswDIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T21:14:22.75Z"
+              "WhenOpened": "2026-04-06T21:14:22.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Models\\Reserva.cs",
+              "ToolTip": "D:\\Nueva carpeta\\ExamenParcial1_\\Models\\Reserva.cs",
+              "RelativeToolTip": "Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:06:16.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Reservas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Edit.cshtml",
+              "ToolTip": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Reservas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T22:03:37.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ReportesController.cs",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Controllers\\ReportesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReportesController.cs",
@@ -251,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
@@ -263,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
@@ -275,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Reservas\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Reservas\\Details.cshtml",
@@ -287,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Hoteles\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Hoteles\\Details.cshtml",
@@ -299,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Hoteles\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Hoteles\\Delete.cshtml",
@@ -311,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Hoteles\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Hoteles\\Edit.cshtml",
@@ -323,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Hoteles\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Hoteles\\Create.cshtml",
@@ -335,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Views\\Hoteles\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Hoteles\\Index.cshtml",
@@ -347,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "HotelesController.cs",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Controllers\\HotelesController.cs",
               "RelativeDocumentMoniker": "Controllers\\HotelesController.cs",
@@ -360,18 +379,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "SeedRoles.cs",
-              "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Data\\SeedRoles.cs",
-              "RelativeDocumentMoniker": "Data\\SeedRoles.cs",
-              "ToolTip": "D:\\Nueva carpeta\\ExamenParcial1_\\Data\\SeedRoles.cs",
-              "RelativeToolTip": "Data\\SeedRoles.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T21:12:45.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "Hotel.cs",
               "DocumentMoniker": "D:\\Nueva carpeta\\ExamenParcial1_\\Models\\Hotel.cs",
               "RelativeDocumentMoniker": "Models\\Hotel.cs",

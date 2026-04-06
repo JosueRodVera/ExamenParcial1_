@@ -263,6 +263,22 @@
           }
         }
       },
+      "DinkToPdf/1.0.8": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.0"
+        },
+        "compile": {
+          "lib/netstandard1.6/DinkToPdf.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard1.6/DinkToPdf.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -1793,7 +1809,7 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "compile": {
-          "lib/net10.0/Microsoft.EntityFrameworkCore.Design.dll": {
+          "lib/net10.0/_._": {
             "related": ".xml"
           }
         },
@@ -2018,6 +2034,15 @@
           "lib/net8.0/Microsoft.NET.StringTools.dll": {
             "related": ".pdb;.xml"
           }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
         }
       },
       "Microsoft.SqlServer.Server/1.0.0": {
@@ -2296,6 +2321,12 @@
         },
         "build": {
           "buildTransitive/Mono.TextTemplating.targets": {}
+        }
+      },
+      "NETStandard.Library/1.6.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.0.1"
         }
       },
       "Newtonsoft.Json/13.0.3": {
@@ -2854,6 +2885,20 @@
         "contentFiles/any/any/wwwroot/js/bootstrap.js.map",
         "contentFiles/any/any/wwwroot/js/bootstrap.min.js",
         "contentFiles/any/any/wwwroot/js/bootstrap.min.js.map"
+      ]
+    },
+    "DinkToPdf/1.0.8": {
+      "sha512": "wJDlcNXjQ+OnBFwh3LBeAXgrXqlKl0RsgN60XpxEFbyqzdaG9ASb5HTXQjXQPaBguSCOrGZZESPnpcng34TEkw==",
+      "type": "package",
+      "path": "dinktopdf/1.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dinktopdf.1.0.8.nupkg.sha512",
+        "dinktopdf.nuspec",
+        "lib/netstandard1.6/DinkToPdf.dll",
+        "lib/netstandard1.6/DinkToPdf.pdb",
+        "lib/netstandard1.6/DinkToPdf.xml"
       ]
     },
     "Humanizer/2.14.1": {
@@ -5724,6 +5769,21 @@
         "ref/netstandard2.0/Microsoft.NET.StringTools.xml"
       ]
     },
+    "Microsoft.NETCore.Platforms/1.0.1": {
+      "sha512": "2G6OjjJzwBfNOO8myRV/nFrbTw5iA+DEm0N+qUqhrOmaVtn4pC77h38I1jsXGw5VH55+dPfQsqHD0We9sCl9FQ==",
+      "type": "package",
+      "path": "microsoft.netcore.platforms/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/netstandard1.0/_._",
+        "microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+        "microsoft.netcore.platforms.nuspec",
+        "runtime.json"
+      ]
+    },
     "Microsoft.SqlServer.Server/1.0.0": {
       "sha512": "N4KeF3cpcm1PUHym1RmakkzfkEv3GRMyofVv40uXsQhCQeglr2OHNcUk2WOG51AKpGO8ynGpo9M/kFXSzghwug==",
       "type": "package",
@@ -6279,6 +6339,19 @@
         "mono.texttemplating.3.0.0.nupkg.sha512",
         "mono.texttemplating.nuspec",
         "readme.md"
+      ]
+    },
+    "NETStandard.Library/1.6.0": {
+      "sha512": "ypsCvIdCZ4IoYASJHt6tF2fMo7N30NLgV1EbmC+snO490OMl9FvVxmumw14rhReWU3j3g7BYudG6YCrchwHJlA==",
+      "type": "package",
+      "path": "netstandard.library/1.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "netstandard.library.1.6.0.nupkg.sha512",
+        "netstandard.library.nuspec"
       ]
     },
     "Newtonsoft.Json/13.0.3": {
@@ -6877,9 +6950,11 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "DinkToPdf >= 1.0.8",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 10.0.5",
       "Microsoft.AspNetCore.Identity.UI >= 10.0.5",
       "Microsoft.EntityFrameworkCore >= 10.0.5",
+      "Microsoft.EntityFrameworkCore.Design >= 10.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.5",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 10.0.2",
@@ -6937,6 +7012,10 @@
       "net10.0": {
         "targetAlias": "net10.0",
         "dependencies": {
+          "DinkToPdf": {
+            "target": "Package",
+            "version": "[1.0.8, )"
+          },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[10.0.5, )"
@@ -6946,6 +7025,12 @@
             "version": "[10.0.5, )"
           },
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[10.0.5, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[10.0.5, )"
           },

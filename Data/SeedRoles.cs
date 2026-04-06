@@ -10,17 +10,17 @@ namespace Hoteleria.Data
             var roleManager = service.GetRequiredService<RoleManager<IdentityRole>>();
             var userManager = service.GetRequiredService<UserManager<ApplicationUser>>();
 
+            // Roles
             string[] roles = { "Administrador", "Cliente" };
-
             foreach (var rol in roles)
             {
                 if (!await roleManager.RoleExistsAsync(rol))
                     await roleManager.CreateAsync(new IdentityRole(rol));
             }
 
-            // Crear usuario admin por defecto
+            // Usuario Admin
             string email = "admin@hotel.com";
-            string password = "Zxcvbn1@";   /// la contraseña no olvidar 
+            string password = "Zxcvbn1@";
 
             if (await userManager.FindByEmailAsync(email) == null)
             {
@@ -28,13 +28,20 @@ namespace Hoteleria.Data
                 {
                     UserName = email,
                     Email = email,
-                    FullName = "Administrador del Sistema"
+                    FullName = "Administrador del Sistema",
+                    NombreCompleto = "Administrador del Sistema", // << importante
+                    EmailConfirmed = true, // recomendable para evitar bloqueos
                 };
 
                 var result = await userManager.CreateAsync(admin, password);
 
                 if (result.Succeeded)
                     await userManager.AddToRoleAsync(admin, "Administrador");
+                else
+                {
+                    foreach (var error in result.Errors)
+                        Console.WriteLine(error.Description);
+                }
             }
         }
     }
