@@ -1,0 +1,24 @@
+﻿@model Hoteleria.Models.Reserva
+
+<h2>Editar Reserva</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label>Hotel</label>
+        <select asp-for="HotelId" class="form-control" asp-items="@(new SelectList(ViewBag.Hoteles, "Id", "Nombre"))"></select>
+    </div>
+
+    <div class="form-group">
+        <label>Fecha Inicio</label>
+        <input asp-for="FechaInicio" type="date" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Fecha Fin</label>
+        <input asp-for="FechaFin" type="date" class="form-control" />
+    </div>
+
+    <button class="btn btn-primary mt-3">Actualizar</button>
+</form>

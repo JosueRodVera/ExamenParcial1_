@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\Hoteleria.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\Hoteleria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\Hoteleria.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\Hoteleria.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\Hoteleria.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\Hoteleria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\Hoteleria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\Hoteleria.RazorAssemblyInfo.cache
+C:\Users\Estudiante\source\repos\Hoteleria\obj\Debug\net10.0\Hoteleria.RazorAssemblyInfo.cs

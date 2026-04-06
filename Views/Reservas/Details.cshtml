@@ -1,0 +1,12 @@
+﻿@model Hoteleria.Models.Reserva
+
+<h2>Detalles de Reserva</h2>
+
+<div class="card p-3">
+    <p><strong>Hotel:</strong> @Model.Hotel.Nombre</p>
+    <p><strong>Dirección:</strong> @Model.Hotel.Direccion</p>
+    <p><strong>Desde:</strong> @Model.FechaInicio.ToShortDateString()</p>
+    <p><strong>Hasta:</strong> @Model.FechaFin.ToShortDateString()</p>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Volver</a>

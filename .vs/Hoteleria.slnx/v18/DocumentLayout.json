@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\reservas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\reservas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\reservas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\reservas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\models\\applicacionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:models\\applicacionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\reservas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\reservas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\hoteles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\hoteles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\hoteles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\hoteles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\hoteles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\hoteles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\hoteles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\hoteles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\views\\hoteles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:views\\hoteles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\controllers\\hotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:controllers\\hotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|c:\\users\\estudiante\\source\\repos\\hoteleria\\data\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67942A6-E3BA-4AB9-1EBC-BAFA25C362D4}|Hoteleria.csproj|solutionrelative:data\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T22:03:37.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Models\\Reserva.cs",
+              "RelativeToolTip": "Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:06:16.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:33:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:34:25.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:33:32.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:32:18.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:07:10.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-06T21:14:38.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicacionUser.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Models\\ApplicacionUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicacionUser.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Models\\ApplicacionUser.cs",
+              "RelativeToolTip": "Models\\ApplicacionUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:05:05.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:37:05.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswDIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:14:22.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "Controllers\\ReportesController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAswKAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:38:29.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:36:05.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:35:05.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reservas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Reservas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Reservas\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:33:59.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hoteles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Details.cshtml",
+              "RelativeToolTip": "Views\\Hoteles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:30:03.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hoteles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Hoteles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:29:33.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hoteles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Hoteles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:29:07.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hoteles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Create.cshtml",
+              "RelativeToolTip": "Views\\Hoteles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:27:54.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hoteles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Views\\Hoteles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Hoteles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T21:27:22.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HotelesController.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Controllers\\HotelesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HotelesController.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Controllers\\HotelesController.cs",
+              "RelativeToolTip": "Controllers\\HotelesController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:26:09.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SeedRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Data\\SeedRoles.cs",
+              "RelativeDocumentMoniker": "Data\\SeedRoles.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Data\\SeedRoles.cs",
+              "RelativeToolTip": "Data\\SeedRoles.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:12:45.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Hoteleria\\Models\\Hotel.cs",
+              "RelativeToolTip": "Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T21:05:50.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

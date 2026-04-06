@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Hoteleria</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+            <div class="container">
+
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">🏨 Hoteleria</a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarNav" aria-controls="navbarNav"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                        <!-- Link común a todos -->
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Hoteles" asp-action="Index">Hoteles</a>
+                        </li>
+
+                        <!-- Link solo para ADMIN -->
+                        @if (User.IsInRole("Administrador"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Dashboard" asp-action="Index">Dashboard</a>
+                            </li>
+
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Reportes</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" asp-controller="Reportes" asp-action="ReservasPDF">Reservas</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Reportes" asp-action="ReservasPorUsuarioPDF">Reservas por Usuario</a></li>
+                                    <li><a class="dropdown-item" asp-controller="Reportes" asp-action="HotelesMasReservadosPDF">Hoteles más Reservados</a></li>
+                                </ul>
+                            </li>
+
+                        }
+
+                        <!-- Link solo Usuarios Logueados -->
+                        @if (User.Identity != null && User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Reservas" asp-action="MisReservas">Mis Reservas</a>
+                            </li>
+                        }
+                    </ul>
+
+                    <!-- Login / Logout -->
+                    <ul class="navbar-nav">
+                        @if (User.Identity != null && User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item me-2 text-white">
+                                👋 Hola, @User.Identity.Name
+                            </li>
+
+                            <li class="nav-item">
+                                <form method="post" asp-controller="Account" asp-action="Logout">
+                                    <button class="btn btn-outline-light btn-sm">Cerrar sesión</button>
+                                </form>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="btn btn-outline-light btn-sm me-2" asp-controller="Account" asp-action="Login">Iniciar Sesión</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="btn btn-success btn-sm" asp-controller="Account" asp-action="Register">Registrarse</a>
+                            </li>
+                        }
+                    </ul>
+
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container mt-4">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-center text-muted py-3">
+        <div class="container">
+            &copy; @DateTime.Now.Year - Hoteleria MVC - Proyecto Escolar
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

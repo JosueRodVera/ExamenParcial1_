@@ -1,0 +1,28 @@
+﻿@model Hoteleria.Models.Hotel
+
+<h2>Detalles del Hotel</h2>
+
+<div class="card p-3">
+    <div class="mb-2">
+        <strong>Nombre:</strong>
+        <p>@Model.Nombre</p>
+    </div>
+
+    <div class="mb-2">
+        <strong>Dirección:</strong>
+        <p>@Model.Direccion</p>
+    </div>
+
+    <div class="mb-2">
+        <strong>Precio por noche:</strong>
+        <p>@Model.PrecioPorNoche Bs</p>
+    </div>
+
+    <div class="mb-2">
+        <strong>Descripción:</strong>
+        <p>@Model.Descripcion</p>
+    </div>
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning mt-3">Editar</a>
+<a asp-action="Index" class="btn btn-secondary mt-3">Volver</a>

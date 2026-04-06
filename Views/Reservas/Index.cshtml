@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Hoteleria.Models.Reserva>
+
+<h2>Mis Reservas</h2>
+
+<a class="btn btn-primary" asp-action="Create">Nueva Reserva</a>
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Hotel</th>
+            <th>Inicio</th>
+            <th>Fin</th>
+            <th>Días</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.Hotel.Nombre</td>
+                <td>@r.FechaInicio.ToShortDateString()</td>
+                <td>@r.FechaFin.ToShortDateString()</td>
+                <td>@(r.FechaFin - r.FechaInicio).Days</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@r.Id">Editar</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@r.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

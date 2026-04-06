@@ -1,0 +1,21 @@
+﻿@model Hoteleria.Models.Hotel
+
+<h2>Eliminar Hotel</h2>
+
+<div class="alert alert-danger">
+    <strong>¿Estás seguro de eliminar este hotel?</strong>
+</div>
+
+<div class="card p-3 mb-3">
+    <p><strong>Nombre:</strong> @Model.Nombre</p>
+    <p><strong>Dirección:</strong> @Model.Direccion</p>
+    <p><strong>Precio por noche:</strong> @Model.PrecioPorNoche Bs</p>
+    <p><strong>Descripción:</strong> @Model.Descripcion</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <button class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

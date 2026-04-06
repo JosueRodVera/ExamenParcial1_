@@ -1,0 +1,17 @@
+﻿@model Hoteleria.Models.Reserva
+
+<h2>Eliminar Reserva</h2>
+
+<p>¿Estás seguro de eliminar esta reserva?</p>
+
+<ul>
+    <li><b>Hotel:</b> @Model.Hotel.Nombre</li>
+    <li><b>Inicio:</b> @Model.FechaInicio.ToShortDateString()</li>
+    <li><b>Fin:</b> @Model.FechaFin.ToShortDateString()</li>
+</ul>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="Id" />
+    <button class="btn btn-danger">Eliminar</button>
+    <a class="btn btn-secondary" asp-action="Index">Cancelar</a>
+</form>
